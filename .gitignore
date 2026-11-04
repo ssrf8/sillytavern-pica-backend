@@ -9,3 +9,7 @@ node_modules/
 *.log
 *.pem
 *.key
+cache.local.json
+dist/
+.official/
+sources.local.json
